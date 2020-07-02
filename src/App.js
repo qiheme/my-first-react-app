@@ -11,7 +11,7 @@ function App() {
           className="App-logo"
           alt="logo"
         />
-        <p>Hello, my name is Quincy Iheme!!!!!</p>
+        <p>Hello, my name is Quincy Iheme!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
